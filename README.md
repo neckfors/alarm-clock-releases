@@ -6,6 +6,12 @@ A simple Android alarm clock that always goes off, also for reminders such as me
 
 For Android 8 or newer.
 
+<p>
+  <img src="screenshots/alarms.png" width="260" alt="The list of alarms, in groups">
+  <img src="screenshots/edit.png" width="260" alt="Editing an alarm">
+  <img src="screenshots/ring.png" width="260" alt="An alarm ringing, with a big Snooze button">
+</p>
+
 ## Always goes off
 - Rings even when the phone is silent or on vibrate, at full alarm volume, which can't be turned down
   while it rings. Your own volume comes back afterwards.
